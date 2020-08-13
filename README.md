@@ -1,8 +1,5 @@
 # yoloV3-tensorFlow
 Minimalistic Implementation of YOLO-V3 in TensorFlow 2
 
-<!-- <video controls width="250">
-    <source src="outputs/yolo_crowd_res.mp4"
-            type="video/mp4">
-</video> -->
 
+![](https://github.com/benihime91/yoloV3-tensorFlow/blob/master/outputs/yolo_crowd_res.gif)
